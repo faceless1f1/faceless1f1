@@ -28,14 +28,14 @@ writing code in Python and clawing my eyes out debugging C.
 ┌──(faceless1f1㉿kali)-[/Desktop/readme]
 └─$ cat skills.txt
 If I had to audit my skills these would be my grades in my opinion
---------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 A+ = "Anything you throw at me, I can do and do it well"
 A = "Anything you throw at me, I can do"
 B = "I have a decent amount of knowledge on the subject"
-C = "I have enough knowledge to fend for myself but definitely not enough"
+C = "I have enough knowledge to fend for myself but definitely not enough for some tasks"
 D = "I can figure things out basic things by myself and need assistance for anything beyond that"
 F = "I cannot figure things out"
---------------------------------
+-------------------------------------------------------------------------------------------------
 Languages:
   Python: C-
   Java: C-
