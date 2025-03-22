@@ -28,19 +28,28 @@ writing code in Python and clawing my eyes out debugging C.
 ┌──(faceless1f1㉿kali)-[/Desktop/readme]
 └─$ cat skills.txt
 If I had to audit my skills these would be my grades in my opinion
+--------------------------------------------------------
+A+ = "Anything you throw at me, I can do and do it well"
+A = "Anything you throw at me, I can do"
+B = "I have a decent amount of knowledge on the subject"
+C = "I have enough knowledge to fend for myself but definitely not enough"
+D = "I can figure things out basic things by myself and need assistance for anything beyond that"
+F = "I cannot figure things out"
+--------------------------------
 Languages:
   Python: C-
   Java: C-
   Assembly: D+
   Bash: D
-  C: D-
+  C: D
   Golang: D-
   
 General:
-  Electronics: C
-  Problem-Solving: C-
-  Mathematics: C-
-  Computer-Science: C-
+  Electronics: C+
+  Problem-Solving: C
+  Mathematics: C
+  Computer-Science: C
+  Cybersecurity: C-
 ┌──(faceless1f1㉿kali)-[/Desktop/readme]
 └─$ cowsay "the end"
   _______
