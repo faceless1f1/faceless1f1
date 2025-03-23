@@ -11,7 +11,6 @@ about-me.txt
 skills.txt
 ┌──(faceless1f1㉿kali)-[/Desktop/readme]
 └─$ cat greeting.txt
-faceless1f1
 Hi, I’m @faceless1f1
 ┌──(faceless1f1㉿kali)-[/Desktop/readme]
 └─$ cat pronouns.txt
@@ -51,9 +50,9 @@ General:
   Computer-Science: C
   Cybersecurity: C-
 ┌──(faceless1f1㉿kali)-[/Desktop/readme]
-└─$ cowsay "the end"
+└─$ cowsay "The end"
   _______
-< the end >
+< The end >
   -------
          \   ^__^ 
           \  (oo)\_______
